@@ -34,7 +34,7 @@ This pattern reduce efforts needed to code refactoring in case of replacing data
 
 
 ### Testing
-to run tests
+To run tests
 ```bash
   php artisan test 
 ```
